@@ -2,7 +2,7 @@
 
 CodePenClone is a web-based code editor built with React, Tailwind CSS, and Ace Editor, allowing users to write and preview HTML, CSS, and JavaScript code in real-time.
 
-![CodePenClone Screenshot](screenshot.png)
+![CodePenClone Screenshot](https://github.com/DeadpoolX7/CodePen/blob/main/Quotopia/Screenshot%20(3).png)
 
 ## Features
 
@@ -16,7 +16,7 @@ CodePenClone is a web-based code editor built with React, Tailwind CSS, and Ace 
 ### 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/CodePenClone.git
+   git clone https://github.com/DeadpoolX7/CodePen.git
 ```
 ### 2. Navigate to project directory
 
