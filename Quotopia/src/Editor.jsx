@@ -93,7 +93,7 @@ function Editor(){
     </button>
   </div>
   <div className="flex-grow overflow-y-visible">
-    <iframe id="output" title="Output" className="w-full h-full border-none" />
+    <iframe id="output" title="Output" className="w-full h-full border-none overflow-x-visible" />
   </div>
 </div>
 
