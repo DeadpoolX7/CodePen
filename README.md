@@ -2,11 +2,17 @@
 
 CodePenClone is a web-based code editor built with React, Tailwind CSS, and Ace Editor, allowing users to write and preview HTML, CSS, and JavaScript code in real-time.
 
+https://github.com/user-attachments/assets/9bba76bc-fbbe-4370-be48-8720c90aa3c2
+
+## Screenshot:
+
 ![CodePenClone Screenshot](https://github.com/DeadpoolX7/CodePen/blob/main/Quotopia/Screenshot%20(3).png)
 
 ## Features
 
-- **Multi-Language Support**: Write and preview HTML, CSS, and JavaScript code simultaneously.
+- **Multi-Language Support**
+
+: Write and preview HTML, CSS, and JavaScript code simultaneously.
 - **Real-time Preview**: See the output of your code update in real-time.
 - **Resizable Output Window**: Resize the output window to view the results comfortably.
 - **Easy to Use**: Simple interface for writing and testing code.
